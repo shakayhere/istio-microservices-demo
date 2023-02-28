@@ -4,7 +4,7 @@ Istio is an open-source service mesh platform that provides advanced routing, ne
 
 The demo app used in this project is forked from Google Cloud Platform repository. More details are attached in the original repo link.
 
-Forked link: https://github.com/shakayhere/kubernetes-microservices-demo
+Forked link: https://github.com/shakayhere/kubernetes-microservices-demo <br />
 Original link: https://github.com/GoogleCloudPlatform/microservices-demo
 
 ## Dependencies to Install
